@@ -1,0 +1,6 @@
+timestamp=20250427_190816
+date=Sun Apr 27 19:08:16 2025
+description=sdfsf
+userCount=5
+walletCount=12
+transactionCount=1
